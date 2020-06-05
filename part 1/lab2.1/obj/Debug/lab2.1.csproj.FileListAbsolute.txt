@@ -1,0 +1,7 @@
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/bin/Debug/lab2.1.exe.config
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/bin/Debug/lab2.1.exe
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/bin/Debug/lab2.1.pdb
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/obj/Debug/lab2.1.csprojAssemblyReference.cache
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/obj/Debug/lab2.1.csproj.CoreCompileInputs.cache
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/obj/Debug/lab2.1.exe
+/Users/serhiishovkovyi/Documents/CS/Lab2/part 1/lab2.1/obj/Debug/lab2.1.pdb
